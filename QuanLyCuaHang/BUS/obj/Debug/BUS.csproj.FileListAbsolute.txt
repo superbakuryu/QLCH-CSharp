@@ -1,0 +1,23 @@
+C:\Users\hapham\documents\visual studio 2012\Projects\QuanLyCuaHang\BUS\bin\Debug\BUS.dll
+C:\Users\hapham\documents\visual studio 2012\Projects\QuanLyCuaHang\BUS\bin\Debug\BUS.pdb
+C:\Users\hapham\documents\visual studio 2012\Projects\QuanLyCuaHang\BUS\bin\Debug\DAL.dll
+C:\Users\hapham\documents\visual studio 2012\Projects\QuanLyCuaHang\BUS\bin\Debug\DAL.pdb
+C:\Users\hapham\documents\visual studio 2012\Projects\QuanLyCuaHang\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\hapham\documents\visual studio 2012\Projects\QuanLyCuaHang\BUS\obj\Debug\BUS.dll
+C:\Users\hapham\documents\visual studio 2012\Projects\QuanLyCuaHang\BUS\obj\Debug\BUS.pdb
+C:\Users\hapham\Desktop\QuanLyCuaHang\BUS\bin\Debug\BUS.dll
+C:\Users\hapham\Desktop\QuanLyCuaHang\BUS\bin\Debug\BUS.pdb
+C:\Users\hapham\Desktop\QuanLyCuaHang\BUS\bin\Debug\DAL.dll
+C:\Users\hapham\Desktop\QuanLyCuaHang\BUS\bin\Debug\DAL.pdb
+C:\Users\hapham\Desktop\QuanLyCuaHang\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\hapham\Desktop\QuanLyCuaHang\BUS\obj\Debug\BUS.dll
+C:\Users\hapham\Desktop\QuanLyCuaHang\BUS\obj\Debug\BUS.pdb
+D:\HocTap\DoAnNET\QuanLyCuaHang\BUS\bin\Debug\BUS.dll
+D:\HocTap\DoAnNET\QuanLyCuaHang\BUS\bin\Debug\BUS.pdb
+D:\HocTap\DoAnNET\QuanLyCuaHang\BUS\bin\Debug\DAL.dll
+D:\HocTap\DoAnNET\QuanLyCuaHang\BUS\bin\Debug\DAL.pdb
+D:\HocTap\DoAnNET\QuanLyCuaHang\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+D:\HocTap\DoAnNET\QuanLyCuaHang\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\HocTap\DoAnNET\QuanLyCuaHang\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\HocTap\DoAnNET\QuanLyCuaHang\BUS\obj\Debug\BUS.dll
+D:\HocTap\DoAnNET\QuanLyCuaHang\BUS\obj\Debug\BUS.pdb
