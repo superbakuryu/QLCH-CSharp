@@ -14,3 +14,8 @@ D:\HocTap\DoAnNET\QuanLyCuaHang\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
 D:\HocTap\DoAnNET\QuanLyCuaHang\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
 D:\HocTap\DoAnNET\QuanLyCuaHang\DAL\obj\Debug\DAL.dll
 D:\HocTap\DoAnNET\QuanLyCuaHang\DAL\obj\Debug\DAL.pdb
+C:\Users\hp\QLCH-CSharp\QuanLyCuaHang\DAL\bin\Debug\DAL.dll
+C:\Users\hp\QLCH-CSharp\QuanLyCuaHang\DAL\bin\Debug\DAL.pdb
+C:\Users\hp\QLCH-CSharp\QuanLyCuaHang\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\hp\QLCH-CSharp\QuanLyCuaHang\DAL\obj\Debug\DAL.dll
+C:\Users\hp\QLCH-CSharp\QuanLyCuaHang\DAL\obj\Debug\DAL.pdb

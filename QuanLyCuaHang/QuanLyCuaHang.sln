@@ -1,11 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuanLyCuaHang", "QuanLyCuaHang\QuanLyCuaHang.csproj", "{B3AE6D34-B075-47F0-BBCC-701884B10D5B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{65C72465-8D5E-424B-BF6B-B0FCAC7C749A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BUS", "BUS\BUS.csproj", "{ADD38E8A-F34F-4E23-9C5F-25607321D240}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "QLCH", "QLCH\QLCH.vdproj", "{12310F2E-66C2-42B7-BFAF-8AE2F038C6A5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -25,8 +29,13 @@ Global
 		{ADD38E8A-F34F-4E23-9C5F-25607321D240}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ADD38E8A-F34F-4E23-9C5F-25607321D240}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ADD38E8A-F34F-4E23-9C5F-25607321D240}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12310F2E-66C2-42B7-BFAF-8AE2F038C6A5}.Debug|Any CPU.ActiveCfg = Debug
+		{12310F2E-66C2-42B7-BFAF-8AE2F038C6A5}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C98D83C-2316-4131-9027-BAC082C0BB02}
 	EndGlobalSection
 EndGlobal

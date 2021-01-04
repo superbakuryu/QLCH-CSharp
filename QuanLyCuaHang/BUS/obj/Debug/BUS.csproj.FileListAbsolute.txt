@@ -21,3 +21,12 @@ D:\HocTap\DoAnNET\QuanLyCuaHang\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
 D:\HocTap\DoAnNET\QuanLyCuaHang\BUS\obj\Debug\BUS.csproj.CopyComplete
 D:\HocTap\DoAnNET\QuanLyCuaHang\BUS\obj\Debug\BUS.dll
 D:\HocTap\DoAnNET\QuanLyCuaHang\BUS\obj\Debug\BUS.pdb
+C:\Users\hp\QLCH-CSharp\QuanLyCuaHang\BUS\bin\Debug\BUS.dll
+C:\Users\hp\QLCH-CSharp\QuanLyCuaHang\BUS\bin\Debug\BUS.pdb
+C:\Users\hp\QLCH-CSharp\QuanLyCuaHang\BUS\bin\Debug\DAL.dll
+C:\Users\hp\QLCH-CSharp\QuanLyCuaHang\BUS\bin\Debug\DAL.pdb
+C:\Users\hp\QLCH-CSharp\QuanLyCuaHang\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\hp\QLCH-CSharp\QuanLyCuaHang\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\hp\QLCH-CSharp\QuanLyCuaHang\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\hp\QLCH-CSharp\QuanLyCuaHang\BUS\obj\Debug\BUS.dll
+C:\Users\hp\QLCH-CSharp\QuanLyCuaHang\BUS\obj\Debug\BUS.pdb
