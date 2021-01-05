@@ -100,6 +100,16 @@ namespace QuanLyCuaHang
             this.Hide();
         }
 
+        private void button9_Click(object sender, EventArgs e)
+        {
+            DialogResult dr;
+            dr = MessageBox.Show("Bạn có muốn thoát khỏi chương trình không ?", "Thông báo", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+            if (dr == DialogResult.Yes)
+            {
+                Application.Exit();
+            }
+        }
+
         private void button7_Click(object sender, EventArgs e)
         {
             panel4.Controls.Clear();
